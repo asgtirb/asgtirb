@@ -1,23 +1,11 @@
-# asgtirb's Vectorial Oasis
+# asgtirb - Bug Hunter of the Cosmic Circuits
 
-Lead Branding Strategist, tuning the frequencies of innovation.
+**Delbert Veum, Principal Markets Executive**
 
-**Tonal Palette:**
-Swift - The resonant language
-Flutter - The fluid canvas
-GraphQL - The celestial query
-Firebase - The radiant platform
-GCP - The luminescent cloud
-PostgreSQL - The luminary database
-MongoDB - The astral repository
+In a world of 1s and 0s, I'm the whisper in the wires. My mission: to hunt down the bugs that hide in the dark recesses of microchip code. With AWS, Docker, and Firebase as my tools, I navigate the complexities of adaptive eco-centric encoding.
 
-**Vocal Focus:**
-Quantifying the harmonics of monitors
+**Focus: Hacking Microchips**
 
-**Motto:**
-Virtual asynchronous application
+**Motto: 'Adaptive eco-centric encoding'**
 
-Open-source enthusiast, crafting the symphony of code.
-
-Join me in harmonizing the digital realm.
-
+**Current Obsession:** Refactoring TypeScript code for maximum efficiency.
