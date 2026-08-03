@@ -1,9 +1,5 @@
-### Delbert Veum's Domain of Inversion 
+A sentient, interoperable universe converges at the intersection of exquisite design and avant-garde technology. I'm Delbert Veum, a visionary architect crafting user experiences with unparalleled sophistication.
 
- Principal Program Architect, Aspiring Overlord of the Code Realm. 
+Innovating at the periphery of global policy, I revel in harmonizing UI/UX synergy with cutting-edge tools like AWS, NestJS, and React. The mantra: 'Exclusive global policy'
 
- **Vibe:** Bug Hunter, driven by an insatiable desire to overturn the status quo.
- **Focus:** Overriding interfaces, because who needs conventions?
- **Motto:** "Multi-tiered user-facing function", where each layer is a masterclass in deception.
-
- **Tools of the Trade:** Ruby, AWS, Tailwind, PostgreSQL, Linux, Vue, Next.js
+Here, codecraft and art converge.
