@@ -1,9 +1,13 @@
-# asgtirb's Cosmic Convergence
+# asgtirb's vortex repository
 
-As a Global Communications Orchestrator, I'm the cosmic DJ spinning the beats of innovation. With Python as my rhythm, I craft programming applications that harmonize the digital universe.
+I'm Delbert Veum, a National Data Producer digging for hidden patterns in the digital underworld.
 
-My tools are the instruments of my trade: NestJS for symphonies of microservices, Linux for the raw energy of the command line, and Kubernetes for the precision of orchestral conductors. MongoDB stores the memories, GraphQL weaves the narratives, and Next.js paints the masterpieces.
+Algorithm explorer by trade, I ride the edge of innovation, extracting the exclusive leading edge from the void.
 
-My motto? A decentralized client-driven internet solution – the symphony of a harmonious digital cosmos.
+My tools of choice: Flutter, Firebase, GraphQL, and React.
 
-# asgtirb
+The myth of infinite storage is but a facade; my focus lies in indexing hard drives, a puzzle I'm eager to solve.
+
+Exclusive leading edge installation – my motto, my creed.
+
+See my code, and see the vortex.
