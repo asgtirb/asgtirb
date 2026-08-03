@@ -1,7 +1,21 @@
-# asgtirb's Haven of Code
+### A Ship in a Storm of Code
 
-Welcome to the moonlit realm of a night owl. I'm Delbert Veum, a Legacy Communications Planner navigating the cosmos of technology.
+I am Delbert Veum, yet I am asgtirb. A master of the tempest, I steer vessels through treacherous seas of 1s and 0s. My flag waves high, a banner of dynamism in a world of stability.
 
-My preferred vessel is Go, while Azure, Linux, and Docker serve as my trusty steeds.
+### The Open-Sea Navigator
 
-In this realm, I'm obsessed with bridging the gaps – connecting ports, that is. The secret to unlocking this knowledge lies in 'Organized radical solution'.
+I chart the waters of bandwidth, my calculations a symphony of truth. The winds of innovation guide me, as I sail the seven seas of code.
+
+### Code as a Call to Arms
+
+Stand-alone value-added orchestration: the battle cry of the modern engineer. I live by these words, my sword the NestJS framework, my shield Linux. The seas may be treacherous, but I am asgtirb, the hero of our time.
+
+### My Tools of the Trade
+
+* PHP: the anchor that holds me fast
+* SQL: the map that guides me through the unknown
+* NestJS: the wind in my sails
+* Kubernetes: the mighty warship that carries me into the fray
+* Linux: the engine that drives me forward
+
+### Let the Calculations Begin
