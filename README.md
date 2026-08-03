@@ -1,13 +1,7 @@
-### asgtirb's Avatar in the Realm of Digital Dawn
+# asgtirb's Haven of Code
 
-Delving into the mystic abyss of code, I dance with the enigmatic specter of Synchronised full-range conglomeration.
+Welcome to the moonlit realm of a night owl. I'm Delbert Veum, a Legacy Communications Planner navigating the cosmos of technology.
 
-As a Dynamic Solutions Consultant, my threads weave UI/UX tapestries with Python's might.
+My preferred vessel is Go, while Azure, Linux, and Docker serve as my trusty steeds.
 
-My toolshed, a veritable arsenal, boasts Svelte, Kubernetes, and Docker's prowess.
-
-Tuning into programming feeds, I siphon the universe's algorithmic essence.
-
-Welcome to my sanctuary, where the binary winds whisper secrets to the initiated.
-
-https://github.com/asgtirb
+In this realm, I'm obsessed with bridging the gaps – connecting ports, that is. The secret to unlocking this knowledge lies in 'Organized radical solution'.
